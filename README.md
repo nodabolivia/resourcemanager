@@ -14,3 +14,7 @@ For now, it has static data which are part of a mutable list.
 - All the views are activities
 - View Binding
 
+
+
+https://user-images.githubusercontent.com/97319172/151669038-5578a234-97cd-4544-b04c-1cab5eb50d57.mp4
+
