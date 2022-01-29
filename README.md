@@ -1,29 +1,16 @@
-# README #
+# README 
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Hi, this is my first Android app and I hope you enjoyed it.
 
-### What is this repository for? ###
+## About the app:
+The app is about the administration of some simple data of those websites which could have interested you, to be more specific it saves the data (title, description, date and URL) of these.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+For now, it has static data which are part of a mutable list.
 
-### How do I get set up? ###
+## About the code:
+- Adapters
+- ViewHolder pattern
+- WebView 
+- All the views are activities
+- View Binding
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
